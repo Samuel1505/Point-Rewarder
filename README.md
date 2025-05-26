@@ -1,6 +1,4 @@
-# Point-Rewarder
-
-# 🏆 RewardContract
+#  🏆 Point-Rewarder Contract 
 
 A Cairo 1.0 smart contract for StarkNet that manages a decentralized reward system using user point balances. This contract allows users to earn, claim, and transfer points securely, with event logging for transparency.
 
